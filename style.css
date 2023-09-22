@@ -38,3 +38,10 @@
     background-position: center;
     cursor: pointer;
 }
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
