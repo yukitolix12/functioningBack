@@ -18,6 +18,17 @@
    justify-content: space-between;
 }
 
+.showcase header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 40px, 100px;
+}
+
 .toggle {
     background: url("./images/menu.png");
     width: 60px;
