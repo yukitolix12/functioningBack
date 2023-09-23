@@ -123,6 +123,7 @@
 .social li a {
     display: inline-block;
     margin-right: 20px;
+    transition: 0.2s;
 }
 
 .social li a:hover {
