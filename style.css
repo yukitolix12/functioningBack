@@ -109,3 +109,9 @@
    background-color: #03a9f4;
    mix-blend-mode: overlay;
 }
+
+.social {
+    position: absolute;
+    bottom: 20px;
+    display: flex;
+}
