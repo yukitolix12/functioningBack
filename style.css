@@ -124,3 +124,7 @@
     display: inline-block;
     margin-right: 20px;
 }
+
+.social li a:hover {
+    transform: translateY(-15px);
+}
