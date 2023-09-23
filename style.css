@@ -57,6 +57,11 @@
     z-index: -1;
 }
 
+.menu ul {
+    list-style: none;
+    font-size: 24px;
+}
+
 .showcase video {
     position: absolute;
     top: 0;
