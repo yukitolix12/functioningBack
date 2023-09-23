@@ -115,3 +115,7 @@
     bottom: 20px;
     display: flex;
 }
+
+.social li {
+    list-style: none;
+}
