@@ -62,6 +62,11 @@
     font-size: 24px;
 }
 
+.menu ul a {
+    text-decoration: none;
+    color: #111;
+}
+
 .showcase video {
     position: absolute;
     top: 0;
