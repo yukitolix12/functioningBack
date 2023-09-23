@@ -18,6 +18,11 @@
    justify-content: space-between;
 }
 
+.showcase.active {
+    position: absolute;  
+    right: 300px;
+}
+
 .showcase header {
     position: absolute;
     top: 0;
